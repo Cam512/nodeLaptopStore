@@ -1,2 +1,2 @@
 # nodeLaptopStore
-Online laptop store built with nodeJS
+Basic laptop store to learn a bit of nodeJS.
